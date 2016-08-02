@@ -1,0 +1,15 @@
+h1{
+border-bottom: 1px solid gray;
+padding-bottom: 10px;
+padding-left: 15px;
+}
+ul{
+     border-right: 1px solid gray;
+     width: 200px;
+     float:left;
+   }
+
+   #article{
+     width:400px;
+     float:left;
+   }
